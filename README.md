@@ -24,3 +24,7 @@
 3. Konten yang sesuai dengan setiap peserta. Tidak boleh menggunakan konten dummy.
 4. Kemampuan peserta menggunakan Git & GitHub
 5. Kemampuan peserta dalam mendeploy aplikasi website
+
+#### Muhammad Ilham Akbar
+#### Kelompok 25 Back End
+#### Mentor : Luthfi Fitra Musyaffa
